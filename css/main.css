@@ -1,3 +1,58 @@
 ﻿/* Default CSS */
-
-body { width: 800px; margin-left: auto; margin-right: auto }
+body {
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.MainHeader {
+	font-size: large;
+	color: rgb(0, 0, 0);
+	font-family: Calibri, Arial , helvetica, sans-serif font-style: normal;
+	font-weight: 400;
+	letter-spacing: normal;
+	orphans: 2;
+	text-align: start;
+	text-indent: 0px;
+	text-transform: none;
+	white-space: normal;
+	widows: 2;
+	word-spacing: 0px;
+	background: rgb(238, 238, 238);
+	border: 1px solid rgb(204, 204, 204);
+	padding: 5px 10px;
+	table-layout: auto;
+}
+.LanguageSwitch {
+	font-size: small;
+	text-align: right;
+	text-transform: capitalize;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: "Comic Sans MS";
+	font-style: italic;
+}
+.auto-style2 {
+	font-size: small;
+}
+.auto-style4 {
+	color: rgb(0, 0, 0);
+	font-family: "Comic Sans MS";
+	font-size: medium;
+	font-style: normal;
+	font-weight: 400;
+	letter-spacing: normal;
+	text-indent: 0px;
+	text-transform: none;
+	white-space: normal;
+	word-spacing: 0px;
+	text-align: right;
+}
+.auto-style7 {
+	text-decoration: none;
+}
+.auto-style8 {
+	color: #000000;
+}
+.auto-style9 {
+	font-family: Calibri;
+}
