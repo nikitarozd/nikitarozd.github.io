@@ -1,15 +1,18 @@
 ﻿/* Default CSS */
 body {
-	width: auto;
+	min-width:800px;
+	max-width:1024px;
+	width:auto
 	margin-left: auto;
 	margin-right: auto;
 }
 .MainHeader {
 	font-size: large;
 	color: rgb(0, 0, 0);
-	font-family: Calibri, Arial , helvetica, sans-serif font-style: normal;
-	font-weight: 400;
-	letter-spacing: normal;
+	font-family: Calibri, Arial , helvetica, sans-serif;
+	font-style: normal;
+/*	font-weight: 400;
+*/	letter-spacing: normal;
 	orphans: 2;
 	text-align: start;
 	text-indent: 0px;
@@ -28,7 +31,6 @@ body {
 	text-transform: capitalize;
 	margin-left: auto;
 	margin-right: auto;
-	font-family: "Comic Sans MS";
 	font-style: italic;
 }
 .auto-style2 {
